@@ -47,9 +47,6 @@ Este projeto é ideal para estudos e para quem está começando com Java e desej
 
 3. Compile todos os arquivos `.java`:
 
-```bash
-javac *.java
-
 
 ###Autor
 José Miguel
@@ -61,3 +58,6 @@ Sinta-se à vontade para modificar, melhorar e compartilhar!
 ###Contato
 GitHub: miguelxl123
 Email: miguelxl189@hotmail.com
+
+
+
