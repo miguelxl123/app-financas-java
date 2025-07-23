@@ -48,14 +48,14 @@ Este projeto é ideal para estudos e para quem está começando com Java e desej
 3. Compile todos os arquivos `.java`:
 
 
-###Autor
+## Autor
 José Miguel
 
-###Licença
+## Licença
 Este projeto está aberto para uso educacional e pessoal.
 Sinta-se à vontade para modificar, melhorar e compartilhar!
 
-###Contato
+## Contato
 GitHub: miguelxl123
 Email: miguelxl189@hotmail.com
 
